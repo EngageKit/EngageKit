@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'EngageKit' target in the 'EngageKit' project
+//
+
+#ifdef __OBJC__
+  #import <Foundation/Foundation.h>
+#endif
