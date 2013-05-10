@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "EngageKit": {
+            "applicationId": YOUR_PARSE_APP_ID, 
+            "masterKey": YOUR_PARSE_APP_MASTER_KEY
+        }, 
+        "_default": {
+            "link": "EngageKit"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.7"
+    }
+}
